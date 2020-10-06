@@ -1,0 +1,5 @@
+.ui.borderless.menu {
+  background-color: rgb(247, 247, 247);
+  box-shadow: none;
+  border: none;
+}
